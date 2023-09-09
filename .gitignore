@@ -1,0 +1,7 @@
+#Git ignore
+
+#CLion
+./idea/
+
+#Cmake
+./cmake-build-debug/
